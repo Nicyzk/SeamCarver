@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:
- *  Date:
- *  Description:
+ *  Name: Nicholas Yap
+ *  Date: 24/07/2021
+ *  Description: Seam Carving. Score 100/100
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.Picture;
